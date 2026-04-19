@@ -3,12 +3,18 @@ node_modules/
 
 # local environment variables
 .env
+.env.local
+.env.production
 
 # Vite cache
 node_modules/.vite/
 
 # build output
 dist/
+build/
+
+# assets
+src/assets/
 
 # logs
 npm-debug.log*
