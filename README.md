@@ -92,3 +92,4 @@ Build the app with `npm run build`, then deploy using your preferred static host
 ## Contact
 
 Reach out via the contact form or email: `wazirishaban20@gmail.com`
+
